@@ -10,3 +10,27 @@ The reasons behind this effort :
 
 
 > **All in all, if you are a developer just getting by with basic commandline knowledge (as I was a year ago) - you should find this most useful to become much more productive at your work.**
+
+##1. Understanding the terminal and shell
+
+##2. Bash redirects
+
+##3. Programming in Bash
+
+##4. Files 
+
+##5. Processes 
+
+##6. Hardware
+(wonder if I should have different sub headings for processor, network card, hard disks, RAM, etc)
+
+##7. Network 
+
+##8. System
+(managing the system preferences, access control, etc)
+
+##9. General utilities 
+(search, replace, automate simple stuff etc.)
+
+##10. Remote
+(ssh, scp, etc)
