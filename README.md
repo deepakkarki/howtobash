@@ -11,7 +11,11 @@ The reasons behind this effort :
 
 > **All in all, if you are a developer just getting by with basic commandline knowledge (as I was a year ago) - you should find this most useful to become much more productive at your work.**
 
-##1. Understanding the terminal and shell
+##0. Understanding the terminal and shell
+(understand shell vs terminal, the different kinds of terminal - longin, non login, etc)
+
+##1. Shell settings
+(bash_profile, bashrc, PS, etc)
 
 ##2. Bash redirects
 
