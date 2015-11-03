@@ -9,4 +9,4 @@ The reasons behind this effort :
 * There is a need for a community driven resource as such. Stackoverflow will help when you know the exact question to ask, here you will probably find solutions to questions you wouldn't think of asking. (Like when my friend introduced me to tmux a while back - such a life saver!)
 
 
-> All in all, if you are a developer just getting by with basic commandline knowledge (as I was a year ago) - you should find this most useful to become much more productive at your work. 
+> **All in all, if you are a developer just getting by with basic commandline knowledge (as I was a year ago) - you should find this most useful to become much more productive at your work.**
