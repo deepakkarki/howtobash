@@ -3,10 +3,14 @@ This repository is a collection of frequent **"How to's"** that command line new
 
 Most of the content will be of the format "How to ..." (eg. How do I automate my ssh scripts) and "How do I ..." (eg. check the memory being used by each process).
 
-The reasons behind this effort :
-* Programming and development are two different things. To be a better developer I need to know my tools better - they don't teach this at college. 
-* Current resources teach you from the tools perspective (i.e.) they cover it tool by tool, here I plan to tackle it problem by problem. (like how to deal with files, handle processes, set up network etc. and see which all tools are available for the job).
-* There is a need for a community driven resource as such. Stackoverflow will help when you know the exact question to ask, here you will probably find solutions to questions you wouldn't think of asking. (Like when my friend introduced me to tmux a while back - such a life saver!)
+###Why
+There are quite a few reasons behind this initiative, to break it down :
+
+**Why deal with bash?** Programming and development are two different things. To be a better developer I need to know my tools better - they don't teach this at college. 
+
+**Why not use reference books** Current resources teach you topic by topic, many reference books and bibles available. I get bored reading before I get something meaningful. Here I introduce commands in context to problems, not the other way round. Once you have the hang of the basics, you'll know what to search for in the man pages / reference books.
+
+**Why put it on Github** There is a need for a community driven resource as such. Stackoverflow will help when you know the exact question to ask, here you will probably find solutions to questions you wouldn't think of asking. (Like when my friend introduced me to tmux a while back - such a life saver!)
 
 
 > **All in all, if you are a developer just getting by with basic commandline knowledge (as I was a year ago) - you should find this most useful to become much more productive at your work.**
